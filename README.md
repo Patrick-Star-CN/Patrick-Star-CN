@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrick-star-cn&label=Profile%20views&color=0e75b6&style=flat" alt="patrick-star-cn" /> </p>
 
-- 🔭 I’m currently working on [JingHong-Home](https://github.com/zjutjh/JingHong-Home)
+- 🔭 I’m currently working on [SummersDays](https://github.com/SummersDays)
 
 - 🌱 I’m currently learning **Java, C++, Golang, React, MySQL, ...**
 
