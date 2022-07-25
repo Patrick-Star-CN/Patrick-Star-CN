@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Java, C++, Golang, React, MySQL, ...**
 
-- 📝 I regularly write articles on [http://www.cnpatrickstar.com](http://www.cnpatrickstar.com)
+- 📝 I regularly write articles on [https://blog.cnpatrickstar.com](https://blog.cnpatrickstar.com)
 
-- 💬 Ask me about **Java, C++**
+- 💬 Ask me about **Java, C++, Goland**
 
 - 📫 How to reach me **glorypig0307@gmail.com**
 
