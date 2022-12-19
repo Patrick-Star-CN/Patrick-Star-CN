@@ -53,7 +53,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 15 December 2022 - To: 17 December 2022
+
+Total Time: 1 hr 50 mins
+
+Go         53 mins         >>>>>>>>>>>>-------------   48.42 %
+C          41 mins         >>>>>>>>>----------------   37.67 %
+Markdown   15 mins         >>>----------------------   13.91 %
 ```
 
 <!--END_SECTION:waka-->
