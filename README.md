@@ -53,13 +53,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 December 2022 - To: 17 December 2022
+From: 15 December 2022 - To: 18 December 2022
 
-Total Time: 1 hr 50 mins
+Total Time: 2 hrs 19 mins
 
-Go         53 mins         >>>>>>>>>>>>-------------   48.42 %
-C          41 mins         >>>>>>>>>----------------   37.67 %
-Markdown   15 mins         >>>----------------------   13.91 %
+Go         1 hr 22 mins    >>>>>>>>>>>>>>>----------   58.93 %
+C          41 mins         >>>>>>>>-----------------   30.00 %
+Markdown   15 mins         >>>----------------------   11.07 %
 ```
 
 <!--END_SECTION:waka-->
