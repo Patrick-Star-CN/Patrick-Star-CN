@@ -53,15 +53,15 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 December 2022 - To: 19 December 2022
+From: 15 December 2022 - To: 20 December 2022
 
-Total Time: 5 hrs 16 mins
+Total Time: 8 hrs 18 mins
 
-Go         4 hrs 8 mins    >>>>>>>>>>>>>>>>>>>>-----   78.57 %
-C          41 mins         >>>----------------------   13.21 %
-Markdown   15 mins         >------------------------   04.88 %
-C++        8 mins          >------------------------   02.56 %
-Makefile   2 mins          -------------------------   00.79 %
+Go         7 hrs 11 mins   >>>>>>>>>>>>>>>>>>>>>>---   86.42 %
+C          41 mins         >>-----------------------   08.37 %
+Markdown   15 mins         >------------------------   03.09 %
+C++        8 mins          -------------------------   01.62 %
+Makefile   2 mins          -------------------------   00.50 %
 ```
 
 <!--END_SECTION:waka-->
