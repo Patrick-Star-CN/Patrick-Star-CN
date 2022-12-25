@@ -53,16 +53,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 December 2022 - To: 22 December 2022
+From: 15 December 2022 - To: 23 December 2022
 
-Total Time: 17 hrs 42 mins
+Total Time: 21 hrs 8 mins
 
-Go               10 hrs 39 mins  >>>>>>>>>>>>>>>----------   60.20 %
-C++              5 hrs 33 mins   >>>>>>>>-----------------   31.37 %
-C                43 mins         >------------------------   04.07 %
-CMake            17 mins         -------------------------   01.64 %
-Markdown         15 mins         -------------------------   01.48 %
-ObjectiveC       10 mins         -------------------------   00.96 %
+Go               13 hrs 10 mins  >>>>>>>>>>>>>>>>---------   62.30 %
+C++              6 hrs 27 mins   >>>>>>>>-----------------   30.57 %
+C                43 mins         >------------------------   03.41 %
+CMake            18 mins         -------------------------   01.46 %
+Markdown         15 mins         -------------------------   01.24 %
+ObjectiveC       10 mins         -------------------------   00.81 %
 ```
 
 <!--END_SECTION:waka-->
