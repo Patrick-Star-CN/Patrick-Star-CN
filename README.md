@@ -53,16 +53,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 December 2022 - To: 28 February 2023
+From: 15 December 2022 - To: 01 March 2023
 
-Total Time: 98 hrs 58 mins
+Total Time: 103 hrs 12 mins
 
-Java             47 hrs 6 mins   >>>>>>>>>>>>-------------   47.59 %
-Go               35 hrs 15 mins  >>>>>>>>>----------------   35.62 %
-C++              7 hrs 20 mins   >>-----------------------   07.42 %
-YAML             2 hrs 48 mins   >------------------------   02.84 %
-XML              1 hr 52 mins    -------------------------   01.90 %
-Markdown         55 mins         -------------------------   00.94 %
+Java             47 hrs 39 mins  >>>>>>>>>>>>-------------   46.17 %
+Go               35 hrs 37 mins  >>>>>>>>>----------------   34.51 %
+C++              10 hrs 35 mins  >>>----------------------   10.27 %
+YAML             2 hrs 48 mins   >------------------------   02.72 %
+XML              1 hr 52 mins    -------------------------   01.82 %
+Markdown         55 mins         -------------------------   00.90 %
 ```
 
 <!--END_SECTION:waka-->
