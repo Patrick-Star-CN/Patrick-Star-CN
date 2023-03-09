@@ -13,9 +13,15 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
+          SYMBOL_VERSION: 1
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           BLOCKS: ->
           TIME_RANGE: all_time
           SHOW_TIME: true
+          SHOW_COMMIT: true
+          SHOW_DAYS_OF_WEEK: true
+          SHOW_OS: true
+          SHOW_PROJECTS: true
+          SHOW_EDITORS: true
           SHOW_MASKED_TIME: true
