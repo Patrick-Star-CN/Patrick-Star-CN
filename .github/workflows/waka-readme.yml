@@ -23,12 +23,12 @@ jobs:
          SHOW_PROJECTS: true
          SHOW_EDITORS: true
          SHOW_MASKED_TIME: false
-         SHOW_LOC_CHART: "False" 
-         SHOW_PROFILE_VIEWS: "False" 
-         SHOW_LANGUAGE_PER_REPO: "False"
-         SHOW_TIMEZONE: "False"
-         SHOW_UPDATED_DATE: "False"
-         SHOW_LINES_OF_CODE: "True"
-         LOCALE: "en"
+         SHOW_LOC_CHART: false
+         SHOW_PROFILE_VIEWS: false
+         SHOW_LANGUAGE_PER_REPO: false
+         SHOW_TIMEZONE: false
+         SHOW_UPDATED_DATE: false
+         SHOW_LINES_OF_CODE: true
+         LOCALE: en
 
     
