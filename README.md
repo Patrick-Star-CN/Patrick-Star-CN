@@ -84,16 +84,17 @@ Sunday                   78 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     0 secs              ███████████████████████░░   92.14 % 
+XML                      0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+javaweb-prj1             0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -109,5 +110,5 @@ Lua                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2023 01:00:00 UTC
+ Last Updated on 03/10/2023 00:59:55 UTC
 <!--END_SECTION:waka-->
