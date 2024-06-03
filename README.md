@@ -84,16 +84,17 @@ Sunday                   77 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     29 mins             █████████████████████████   98.64 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Intellijidea             29 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+scheduling_system        29 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      29 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
@@ -109,5 +110,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/06/2024 01:09:28 UTC
+ Last Updated on 03/06/2024 01:06:17 UTC
 <!--END_SECTION:waka-->
