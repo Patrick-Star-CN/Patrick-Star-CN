@@ -51,6 +51,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patrick-star-cn&show_icons=true&locale=en" alt="patrick-star-cn" /></p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-796%20hrs%2034%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.2%20million%20lines%20of%20code-blue)
@@ -107,5 +109,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2025 01:17:37 UTC
+ Last Updated on 03/01/2025 01:18:33 UTC
 <!--END_SECTION:waka-->
