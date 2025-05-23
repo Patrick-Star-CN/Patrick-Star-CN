@@ -51,6 +51,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patrick-star-cn&show_icons=true&locale=en" alt="patrick-star-cn" /></p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-817%20hrs%2053%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.2%20million%20lines%20of%20code-blue)
@@ -88,9 +90,8 @@ Java                     0 secs              ███████████�
 IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-scheduling_system        0 secs              ████████████████░░░░░░░░░   62.66 % 
-forum_副本                 0 secs              █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-forum-server             0 secs              ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+forum_副本                 0 secs              █████████████████████████   98.64 % 
+forum-server             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 💻 Operating System: 
 Mac                      0 secs              █████████████████████████   100.00 % 
@@ -109,5 +110,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2025 01:38:10 UTC
+ Last Updated on 23/05/2025 01:38:10 UTC
 <!--END_SECTION:waka-->
