@@ -51,7 +51,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patrick-star-cn&show_icons=true&locale=en" alt="patrick-star-cn" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-818%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-818%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -84,17 +84,17 @@ Sunday                   92 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     27 mins             ████████████████████████░   96.07 % 
-XML                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Java                     40 mins             ███████████████████████░░   90.26 % 
+XML                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
 
 🔥 Editors: 
-IntelliJ IDEA            28 mins             █████████████████████████   100.00 % 
+IntelliJ IDEA            45 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-forum-server             28 mins             █████████████████████████   100.00 % 
+forum-server             45 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      28 mins             █████████████████████████   100.00 % 
+Mac                      45 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -110,5 +110,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2025 01:27:29 UTC
+ Last Updated on 23/08/2025 01:25:23 UTC
 <!--END_SECTION:waka-->
