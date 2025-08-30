@@ -51,9 +51,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patrick-star-cn&show_icons=true&locale=en" alt="patrick-star-cn" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-819%20hrs%2059%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.2%20million%20lines%20of%20code-blue)
 
@@ -84,18 +82,17 @@ Sunday                   92 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     1 hr 27 mins        ████████████████████████░   96.11 % 
-XML                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Java                     1 hr 13 mins        █████████████████████████   99.67 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 30 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            1 hr 13 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-forum-server             1 hr 30 mins        █████████████████████████   100.00 % 
+forum-server             1 hr 13 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 30 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 13 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -111,5 +108,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2025 01:25:49 UTC
+ Last Updated on 30/08/2025 01:21:42 UTC
 <!--END_SECTION:waka-->
