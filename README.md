@@ -51,50 +51,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patrick-star-cn&show_icons=true&locale=en" alt="patrick-star-cn" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-820%20hrs%201%20min-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.20%20million%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                45 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-🌆 Daytime                240 commits         █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
-🌃 Evening                701 commits         ███████████████░░░░░░░░░░   61.38 % 
-🌙 Night                  156 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-Tuesday                  60 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-Wednesday                135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Thursday                 170 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Friday                   262 commits         ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
-Saturday                 326 commits         ███████░░░░░░░░░░░░░░░░░░   28.55 % 
-Sunday                   93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in Java** 
 
@@ -109,5 +68,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2026 01:47:23 UTC
+ Last Updated on 03/01/2026 01:41:24 UTC
 <!--END_SECTION:waka-->
