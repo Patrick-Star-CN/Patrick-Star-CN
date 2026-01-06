@@ -51,9 +51,50 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patrick-star-cn&show_icons=true&locale=en" alt="patrick-star-cn" /></p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-836%20hrs%2046%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.20%20million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.20%20million%20lines%20of%20code-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                45 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+🌆 Daytime                240 commits         █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
+🌃 Evening                701 commits         ███████████████░░░░░░░░░░   61.38 % 
+🌙 Night                  156 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+Tuesday                  60 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Wednesday                135 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Thursday                 170 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Friday                   262 commits         ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
+Saturday                 326 commits         ███████░░░░░░░░░░░░░░░░░░   28.55 % 
+Sunday                   93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in Java** 
 
@@ -68,5 +109,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 01:56:18 UTC
+ Last Updated on 06/01/2026 01:47:19 UTC
 <!--END_SECTION:waka-->
